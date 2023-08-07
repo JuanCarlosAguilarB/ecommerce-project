@@ -1,0 +1,3 @@
+[submodule "ecommerce-project-backend-django"]
+	path = ecommerce-project-backend-django
+	url = git@github.com:JuanCarlosAguilarB/ecommerce-project-backend-django.git
